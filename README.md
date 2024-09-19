@@ -3,6 +3,8 @@
 Description. 
 The package package_name is used to:
 	- Pacote criado para aprendizado do bootcamp DIO
+	- Programa para verificar se um número é par ou ímpar.
+	- Program para verificar se um ano é bissexto ou não.
 
 ## Installation
 
